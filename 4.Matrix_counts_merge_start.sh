@@ -9,4 +9,4 @@
 module load gcc/6.4.0 R/3.6.0
 
 #RScrypt
-Rscript  8.Rpesca_analysis.R
+Rscript  4.MatrixCounts_merge.R
